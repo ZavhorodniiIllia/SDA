@@ -8,14 +8,15 @@
 using namespace std;
 
 void Menu() {
-	cout << "1) Упорядкований масив та сортування  вставкою" << endl;
-	cout << "2) Упорядкований масив та сортування  вибром" << endl;
-	cout << "3) Упорядкований масив та сортування  обміном" << endl;
-	cout << "4) Оберененовпорядкований масив та сортування  вставкою" << endl;
-	cout << "5) Оберененовпорядкований масив та сортування  вибром" << endl;
-	cout << "6) Оберененовпорядкований масив та сортування  обміном" << endl;
-	cout << "7) Рандомний масив та сортування  вставкою" << endl;
-	cout << "8) Рандомний масив та сортування  вибром" << endl;
-	cout << "9) Рандомний масив та сортування  обміном" << endl;
-	cout << "10) Вихід" << endl;
+	cout << "1) Arranged array and sort by insertion" << endl;
+	cout << "2) Arranged array and sort by choice" << endl;
+	cout << "3) Arranged array and sort by exchange" << endl;
+	cout << "4) Invert Arranged Array and Sort by Insert" << endl;
+	cout << "5) Invert Arranged array and sort by choice" << endl;
+	cout << "6) Inverted Arranged Array and Sort by Exchange" << endl;
+	cout << "7) Random array and sorting by insertion" << endl;
+	cout << "8) Random array and Sorting by choice" << endl;
+	cout << "9) Random array and sorting by exchange" << endl;
+	cout << "10) Time table" << endl;
+	cout << "11) Exit" << endl;
 }
